@@ -1,5 +1,7 @@
 {
     "proxies": "socks4",
+    "proxies": "socks5",
+    "proxies": "http",
     "thread": "200",
 
     "webhook": {
